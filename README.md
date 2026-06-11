@@ -12,44 +12,6 @@ I'm an Bachelor of Science in Information Technology graduate with experience in
 
 ---
 
-## 🛠️ Tech Stack
-
-### Programming Languages
-- Python
-- C#
-- JavaScript
-- TypeScript
-- SQL
-
-### Frontend Development
-- React.js
-- Next.js
-- Vue.js
-- HTML5
-- CSS3
-- JavaScript
-
-### Backend Development
-- Django
-- Django REST Framework
-- REST APIs
-- .NET Framework
-
-### Database Management
-- PostgreSQL
-
-### Data Analysis
-- NumPy
-- Pandas
-
-### Version Control & Tools
-- Git
-- GitHub
-- Visual Studio
-- Visual Studio Code
-
----
-
 ## 📚 Skills
 
 - Full-Stack Web Development
@@ -62,36 +24,11 @@ I'm an Bachelor of Science in Information Technology graduate with experience in
 
 ---
 
-## 🚀 Featured Technologies
-
-| Technology | Description |
-|------------|-------------|
-| Python | Backend development, automation, and data analysis |
-| Django | Web application development |
-| Django REST Framework | Building RESTful APIs |
-| React.js | Interactive user interfaces |
-| Next.js | Modern React framework |
-| Vue.js | Progressive JavaScript framework |
-| C# | Desktop and enterprise application development |
-| PostgreSQL | Relational database management |
-| Git | Version control and collaboration |
-
----
-
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vnc-afk&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vnc-afk&layout=compact)
-
----
-
-## 🌟 Current Focus
-
-- Building modern web applications
-- Improving backend development skills
-- Learning software architecture and best practices
-- Developing scalable REST APIs
 
 ---
 
