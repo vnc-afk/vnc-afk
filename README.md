@@ -24,12 +24,6 @@ I'm an Bachelor of Science in Information Technology graduate with experience in
 
 ---
 
-## 📈 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vnc-afk&layout=compact)
-
----
-
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/vnc-afk
